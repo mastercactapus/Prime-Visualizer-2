@@ -1,3 +1,7 @@
 #prime-display .graph {
 	border:solid 1px black;
 }
+
+label {
+	display:block;
+}
